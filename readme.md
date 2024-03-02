@@ -210,7 +210,7 @@
             <sub><b>이영서</b></sub>
         </a>
         <br />
-        <div>Be</div>
+        <div>Infra, Be</div>
       </td>
       <br/>
       <td align="center">
